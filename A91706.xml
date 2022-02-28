@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The resolved apprentices or A reply of the well-affected apprentices of the city of London, inhabiting in the ward of Bridge within, unto a late printed paper, entituled, The thankeful acknowledgement and congratulation of divers well-affected apprentices within the ward of Cripple Gate, without; unto Lieutenant Colonel John Lilburn, Mr. William Walwin, Mr. Thomas Prince, and Mr. Richard Overton.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91706</idno>
+            <idno type="STC">Wing R1170</idno>
+            <idno type="STC">Thomason 669.f.14[32]</idno>
+            <idno type="STC">ESTC R211132</idno>
+            <idno type="EEBO-CITATION">99869865</idno>
+            <idno type="PROQUEST">99869865</idno>
+            <idno type="VID">163020</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91706)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163020)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f14[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The resolved apprentices or A reply of the well-affected apprentices of the city of London, inhabiting in the ward of Bridge within, unto a late printed paper, entituled, The thankeful acknowledgement and congratulation of divers well-affected apprentices within the ward of Cripple Gate, without; unto Lieutenant Colonel John Lilburn, Mr. William Walwin, Mr. Thomas Prince, and Mr. Richard Overton.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>A reply to: The thankfull acknowledgment and congratulation of divers well-affected apprentices within the ward of Cripple-gate without, unto the ever to be honored Lieutenant Colonel John Lilburn, Mr William Walwyn, Mr Thomas Prince, and Mr Richard Overton, now prisoners in the Tower of London, for their faithful services, love and affections to this poor distressed and miserably wasted nation.</note>
+                  <note>Dated at end: the 17 of May, 1649. the first year of Englands hopeful Restauration, through the blessing of God, to its primitive Liberty.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:163020:1" rendition="simple:additions"/>
+            <head>THE RESOLVED APPRENTICES, OR A Reply of the well-affected Apprentices of the City of <hi>London,</hi> Inhabiting in the Ward of <hi>Bridge</hi> within, UNTO A late Printed Paper, entituled, <hi>The Thankeful Acknowledgment and Congratulation of divers well-affected Apprentices within the Ward of Cripple Gate, without; <g ref="char:V">Ʋ</g>nto Lieutenant Colonel John Lilburn, Mr. William Walwin, Mr. Thomas Prince, and Mr. Richard Overton.</hi>
+            </head>
+            <p>FOraſmuch as we have ſeen a late Paper, entituled, <hi>The thankful Acknowledgment, &amp;c. unto Lieutenant Colonel John Lilburn, &amp;c.</hi> The tendency whereof is to applaud and juſtifie the ſaid perſons in fomenting Jelouſies, Diviſions and Diſcontents in the City, Country and Army, and thereby obſtructing the deſireable and long looked for Relief of <hi>Ireland,</hi> and the happy Settlement of this Common-wealth, ſtifling thereby thoſe tender buds of Joy and Gladneſs which did begin to ſpring within us; all which Proceedings of the ſaid perſons do render them ſo far from a Conſimilitude with <hi>Moſes</hi> and <hi>Aaron,</hi> to whom the Contrivers of the ſaid Paper doth moſt proudly and arrogantly compare them; <hi>In leading us, poor Iſraelites, out of our bondage and ſlavery of Egypt into a Canaan of Liberty,</hi> (according to their flattering language:) As that it more fitly repreſents the ſaid Mr <hi>Lilburn,</hi> Mr <hi>Walwyn,</hi> Mr <hi>Prince,</hi> and Mr <hi>Overton,</hi> like <hi>Korah, Dathan, Abiram,</hi> and <hi>On, Numb.</hi> 16. 1. who <hi>took unto them what party they could procure among the families of Iſrael,</hi> (as theſe do among the Regiments of the Army, and elſewhere) <hi>and gathered themſelves together againſt Moſes and Aaron,</hi> their experienced, ſucceſsful and valiant Leaders, (as theſe do againſt the faithful and approved Governors of the Nation, and proſperous chief Commanders and Officers) telling them that <hi>they took too much upon them, ſeeing all the Congregation are holy every one of them:</hi> (As theſe tell their preſent Governors and Commanders, that they take too much upon them to Lord it over them, for they are the free-born People of <hi>England</hi> every one of them;) Adding moreover, <hi>Wherefore then do you lift up your ſelves above the Congregation of the Lord?</hi> (As theſe in their high Language charge their faithful Leaders to do all, in order to lift up themſelves over the free People of <hi>England,</hi> and to keep them down in Tyranny and Slavery,) And therefore foraſmuch as the ſaid Paper pretends in the name of divers well-affected Apprentices of Cripple gate VVard without, to congratulate the ſaid Mr <hi>Lilburn,</hi> &amp;c. incouraging and praying them to go on in their preſent Proceedings: VVe cannot but conceive it a falſe, ſcandalous and moft injurious Aſperſion, ſtaining the honour and repute of the well-affected Apprentices of the ſaid VVard; a Jeſuitical, VVicked and Malignant Inſinuation, on pur<g ref="char:EOLhyphen"/>poſe to increaſe Diviſion, make Tumults, and raiſe up Parties, according to the well-known Cuſtom of the diſ-affected Party, that ſo the Harveſt of Peace, Freedom and Liberty of this Nation, which was ſown in Tears, watered in Blood, and now looks white, and ready for the Sickle, may be troden under the feet of that very Party that is ready to reap it, and burnt up by the fire brands, ſcattered abroad by theſe crafty Foxes: increaſing the Burthens, Oppreſſions and Miſeries of the People, by precipitating them into a third moſt fierce, fiery, and bloody VVar, more dangerous and deſtructive then the former have been, to the intolerable inſlaving and impo<g ref="char:EOLhyphen"/>veriſhing of the poor Country, by hindering that Party deſigned for <hi>Ireland</hi> in that happy Expedition, and continuing them ſtill upon free quarter, and raifing up and engaging a freſh Party without any the leaſt colour of Authority whatſoever, to the unſufferable vexation and ruine of the poor Country. And laſtly, Foraſmuch as the well-affected Apprentices of the City of <hi>London</hi> are exhort<g ref="char:EOLhyphen"/>ed and excited, according to that pretended Pattern, ſpecified in the ſaid Paper, <hi>To chooſe cordial and active young men in their reſpective Wards, to be Agitators for them, to procure parties for the carrying on of that Work,</hi> viz. To do after their pretended Example. Theſe are therefore to ſatisfie all ſuch to whom this Paper ſhall come, That we do renounce and abhor the Contents of the ſaid Paper, and do look on it as ſcandalous and reproachful unto all well-affected Apprentices; and though we have had honorable thoughts of ſome of thoſe perſons to whom the ſaid Paper was directed, for their former forwardneſs and zeal for the Intereſt of <hi>England,</hi> yet we do in our Souls and Conſciences conceive and judg their preſent Proceedings, the unhappy fruits of Jeſuitical and Malignant tamper<g ref="char:EOLhyphen"/>ings with them, and ſhall uſe the beſt skill and abillities we have for the hindering their turbulent Proceedings. And although we cannot but be ſenſible of the manifold preſſures and ſorrows of the People, as well as theſe pretenders to Common Intereſt, and do heartily wiſh and deſire the Parliaments ſpeedy care and endeavor to perform their Engagements to the People, and take hold of all opportunities to that end; yet (conſidering the multitude of buſineſs, wherewith they are incumbred in ſecuring the Common-wealth by Sea and Land, &amp;c.) we are reſolved with our lives, and all that is dear and precious unto us, to aſſiſt the Parliament in their juſt Proceedings, and their hopeful progreſs in the ſpeedy Relief of <hi>Ireland,</hi> and prudent Settlement of the Common-wealth of <hi>England</hi> upon Principles of Righteouſneſs, Freedom and Safety, which is according to the Tenure of their late Engagements in the ſeveral Expreſſes and Declaration.</p>
+            <p>VVe have now diſcharged our Conſciences, in vindicating the honor and reputation of our fellow Apprentices of <hi>Cripplegate</hi> VVard without, and do deſire (if it appears meet) that both they and the well-affected Apprentices of all other VVards of this City would eccho us in a joynt and unanimous Declaration of their ſtedfaſt Reſolutions, faithfully and conſtantly to adhere unto the Parliament and Army in their juſt proſecution of the publique Intereſt, and engage themſelves with us in the preſence of Heaven and Earth, to ſtrengthen their hands in that juſt and righteous Cauſe of freeing this Nation from Tyranny and Slavery, wherein they have advanced and, through Gods mercy with them, proſpered againſt all the Powers and Policies engaged againſt. VVe have ſent theſe our Reſolu<g ref="char:EOLhyphen"/>tions unto Mr <hi>Lilburn,</hi> Mr <hi>Walwyn,</hi> Mr <hi>Prince,</hi> Mr <hi>Overton,</hi> this 17 of <hi>May,</hi> 1649. and do likewiſe commend the ſame unto the ſerious Conſideration of our well-affected fellow Apprentices, hoping that as in the beginning of theſe VVars our Predeceſſors (young men of the ſame quality with our preſent condition) were honored to be Inſtruments of propagating this VVork, ſo God would make us alſo inſtrumental for the finiſhing thereof, which is the deſires and prayers of</p>
+            <closer>
+               <signed>Your affectionate fellow Apprentices of Bridge Ward within.</signed>
+               <dateline>
+                  <hi>Dated</hi> 
+                  <date>the 17 <hi>of</hi> May, 1649. <hi>the firſt year of Englands hopeful Restauration, through the bleſsing of God, to its primitive Liberty.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
